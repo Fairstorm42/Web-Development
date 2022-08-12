@@ -1,0 +1,22 @@
+body {
+  background-color: #EBFFFB;
+}
+
+hr {
+  border: dotted #3161A3;
+  border-width: 0 0 20px;
+  width: 10%;
+}
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #7EFAFF;
+}
+h2 {
+  color: #7EFAFF;
+}
+h3 {
+  color: #7EFAFF;
+}
